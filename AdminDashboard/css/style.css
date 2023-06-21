@@ -1,0 +1,66 @@
+body{
+    background: #333534;
+    font-family: 'Mulish', sans-serif;
+}
+
+.sidebar li{
+    padding: 20px;
+    margin-right: 50px;
+}
+
+.sidebar a{
+    color: white;
+    text-decoration: none; 
+}
+
+.bg
+{
+    background: rgb(17, 17, 17);
+}
+
+.bg h1{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.box-blue{
+    height: 150px;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right,#8E2DE2,#4A00E0);
+    padding: 60px;
+    text-align: center;
+}
+
+.box-blue h3{
+    color: white;
+    font-family: 'Fredoka One', cursive;
+    
+}
+
+.box-orange{
+    height: 150px;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right,#f12711,#f5af19);
+    padding: 60px;
+    text-align: center;
+
+}
+
+.box-orange h3{
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.box-pink{
+    height: 150px;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right,#bc4e9c,#f80759);
+    padding: 60px;
+    text-align: center;
+}
+
+.box-pink h3{
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
